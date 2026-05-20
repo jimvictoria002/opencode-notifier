@@ -1,6 +1,6 @@
 {
   "name": "opencode-notifier-fahhh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "OpenCode plugin that sends system notifications and plays the fahhh sound when permission is needed, generation completes, or errors occur",
   "author": "jimvictoria002",
   "license": "MIT",
