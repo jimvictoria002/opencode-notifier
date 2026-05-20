@@ -1,6 +1,6 @@
-# opencode-notifier
+# opencode-notifier (fahhh edition)
 
-OpenCode plugin that plays sounds and sends system notifications when permission is needed, generation completes, errors occur, or the question tool is invoked. Works on macOS, Linux, and Windows.
+OpenCode plugin that ~~plays sounds and~~ sends system notifications when permission is needed, generation completes, errors occur, or the question tool is invoked. Default sound is **fahhh**. Works on macOS, Linux, and Windows.
 
 ## Quick Start
 
@@ -8,7 +8,7 @@ Add this to your `opencode.json`:
 
 ```json
 {
-  "plugin": ["@mohak34/opencode-notifier@latest"]
+  "plugin": ["opencode-notifier@latest"]
 }
 ```
 
