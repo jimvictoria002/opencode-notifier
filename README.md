@@ -8,7 +8,7 @@ Add this to your `opencode.json`:
 
 ```json
 {
-  "plugin": ["opencode-notifier@latest"]
+  "plugin": ["opencode-notifier-fahhh"]
 }
 ```
 
